@@ -81,7 +81,9 @@ Los archivos temporales (`build` y `.spec`) se guardan en `<salida>/_build`, de 
 
 ```
 .
-├── py_a_exe.py   # Aplicación completa (interfaz + lógica de conversión)
+├── LICENSE 
+├── py_a_exe.exe # Aplicación completa (interfaz + lógica de conversión)
+├── py_a_exe.py # Código fuente de la aplicación 
 └── README.md
 ```
 
